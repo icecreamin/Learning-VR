@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build a vr world in 15 minutes!.Plugins", "Build a vr world in 15 minutes!.Plugins.csproj", "{1E79A94C-D26C-554C-03FE-DCC94890B761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build a vr world in 15 minutes!", "Build a vr world in 15 minutes!.csproj", "{A26498D0-2711-C390-7223-060A4094652C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build a vr world in 15 minutes!.Editor.Plugins", "Build a vr world in 15 minutes!.Editor.Plugins.csproj", "{54B30FEC-0C3E-C5CE-3BDC-6D84DE446BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build a vr world in 15 minutes!.Editor", "Build a vr world in 15 minutes!.Editor.csproj", "{22751194-7CAA-5715-12F3-677A6A1E92E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E79A94C-D26C-554C-03FE-DCC94890B761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E79A94C-D26C-554C-03FE-DCC94890B761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E79A94C-D26C-554C-03FE-DCC94890B761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E79A94C-D26C-554C-03FE-DCC94890B761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26498D0-2711-C390-7223-060A4094652C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26498D0-2711-C390-7223-060A4094652C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26498D0-2711-C390-7223-060A4094652C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26498D0-2711-C390-7223-060A4094652C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B30FEC-0C3E-C5CE-3BDC-6D84DE446BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B30FEC-0C3E-C5CE-3BDC-6D84DE446BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B30FEC-0C3E-C5CE-3BDC-6D84DE446BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B30FEC-0C3E-C5CE-3BDC-6D84DE446BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22751194-7CAA-5715-12F3-677A6A1E92E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22751194-7CAA-5715-12F3-677A6A1E92E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22751194-7CAA-5715-12F3-677A6A1E92E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22751194-7CAA-5715-12F3-677A6A1E92E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
